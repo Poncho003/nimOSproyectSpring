@@ -119,7 +119,7 @@ Controller  →  Service  →  Repository  →  MongoDB
 
 ---
 
-## 📬 Correos Institucionales
+## 📬 Correos Propuestos Para Pruebas de la Applicación
 
 | Rol         | Correo                     | Contraseña |
 |-------------|----------------------------|------------|
@@ -143,7 +143,7 @@ Controller  →  Service  →  Repository  →  MongoDB
 
 ## 👨‍💻 Autor
 
-*Alfonso Medina**  
+**Alfonso Medina**  
 💼 Ingeniería en Tecnologías de la Información y Comunicación  
 📧 Contacto: [alfonsomedinaalvarado@gmail.com](alfonsomedinaalvarado@gmail.com)  
 💻 GitHub: [Poncho003](https://github.com/Poncho003)
@@ -152,4 +152,4 @@ Controller  →  Service  →  Repository  →  MongoDB
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia **MIT** — puedes usarlo, modificarlo y compartirlo libremente con atribución.
+Este proyecto está bajo la licencia **MIT**.
