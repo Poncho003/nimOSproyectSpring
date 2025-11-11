@@ -119,7 +119,7 @@ Controller  →  Service  →  Repository  →  MongoDB
 
 ---
 
-## 📬 Correos Propuestos para Pruebas de la Applicación
+## 📬 Correos Propuestos para Pruebas de la Aplicación
 
 | Rol         | Correo                     | Contraseña |
 |-------------|----------------------------|------------|
